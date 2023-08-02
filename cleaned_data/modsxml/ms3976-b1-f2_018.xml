@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">ms3976-b1-f2_018</identifier>
+   <titleInfo>
+      <title>Lane College scrapbook, page 50</title>
+   </titleInfo>
+   <originInfo>
+      <dateCreated qualifier="approximate">1923</dateCreated>
+      <dateCreated encoding="edtf" qualifier="approximate">1923</dateCreated>
+   </originInfo>
+   <abstract>Graduation Program. Tuesday Evening, 8 O'Clock. Processional. Song. Invocation. Vocal Duett-"Home to our Mountians" Verdi Miss Mitrolyene Gray and Mr. Dewey Tuggle. Oration "The Value and Influence of Music in the School. Miss Otemise Mildred Allen (omitted). Oration "Recreation, Its Place in the School Room". Miss Viola Parthenia Flowers (Omitted). Oration-"Varieties of Education" Miss Lottya Loyene Graye. Oration "The School and its Government" Miss Dimple Virginia Johnson (omitted) Oration "And a Little Child Shall Lead Them" Miss Lucille L. Price. Oration "Professional Training, its growth and Value" Miss Lucille L.Price Vocal Solo-"Call Me Bacl" Miss Viola Parthenia Flowers.Oration "The Growth of an Individual's Ideal" Miss Myra Hortense Roman. Oration "Building of Character, the Aim of the School" Miss Lessie Belle Spann. Oration-"The Value of a Fixed Purpose" Miss Olive B. Woods. Piano Solo-"Impromptu"-C. Sharp Minor Rheinhold. Miss Otemise Mildred Allen. Oration "The Social Duty of the Church. Miss Eassie Mae Atwater. Oration-"The Value of a Vision" Miss Ada M. V. White. Music-"The Song of the Mocking Bird" Young Ladies' Glee Club Announcments. Benediction</abstract>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027341">scrapbooks</form>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2022006092">
+      <topic>Historically Black colleges and universities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85028370">
+      <topic>College students, Black</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n84105266">
+      <name>
+         <namePart>Lane College</namePart>
+      </name>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Lane College Scrapbook</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Lane College Scrapbook</title>
+      </titleInfo>
+      <identifier>MS-3976</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>
